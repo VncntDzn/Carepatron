@@ -67,7 +67,7 @@ const ClientDialog = ({ onClose }: { onClose: () => void }) => {
 							},
 						}}
 					>
-						<StepLabel>Personal Details</StepLabel>
+						<StepLabel>Contact Details</StepLabel>
 					</Step>
 				</Stepper>
 
